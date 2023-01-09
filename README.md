@@ -2,9 +2,6 @@
 
 Sou Desenvolvedora Web e apaixonada por tecnologia!
 
-💻 [Website](https://portfolio-jessicafiel.vercel.app/) 
-
-
 ## Contatos:
 
 <div>
