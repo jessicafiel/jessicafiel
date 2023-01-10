@@ -10,8 +10,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)&nbsp;
@@ -21,8 +21,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)&nbsp;
 
 ## Contatos :
-[![Linkedin: jessicagamafiel](https://img.shields.io/badge/-erickssguerra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-gama-fiel-09b55b140/)](https://www.linkedin.com/in/jessica-gama-fiel-09b55b140/)
-[![Gmail: jessicagamafiel](https://img.shields.io/badge/erickssguerra-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jessicagamafiel@gmail.com)
+[![Linkedin: jessicagamafiel](https://img.shields.io/badge/-jessicagamafiel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-gama-fiel-09b55b140/)](https://www.linkedin.com/in/jessica-gama-fiel-09b55b140/)
+[![Gmail: jessicagamafiel](https://img.shields.io/badge/jessicagamafiel-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jessicagamafiel@gmail.com)
 
 
 
